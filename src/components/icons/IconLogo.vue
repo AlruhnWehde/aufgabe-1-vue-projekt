@@ -1,10 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 27.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 585 585" style="enable-background:new 0 0 585 585;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#00B7FF;}
-</style>
+<template>
+  <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 585 585" style="enable-background:new 0 0 585 585;" xml:space="preserve"  width="30" height="30">
 <path class="st0" d="M150.4,480.6c38.1,31.6,91,48.2,142.3,48c51.3-0.2,106.6-20.1,142-49l-142-332.2L150.4,480.6z M376,382.2
 	l-11,9.5l-24.3-53.3l-17.5,41.5l-24-43.8l-24.6,42.1l-13.3-66.3l-19.4,67.4l-18.1-29.8l69.1-161.7L376,382.2z"/>
 <path class="st0" d="M545.7,187.6c-13.8-33.4-33.8-63.3-59.4-88.9c-25.6-25.6-55.5-45.6-88.9-59.4s-68.7-20.9-104.9-20.9
@@ -15,3 +11,9 @@
 	c0,68.1-26.5,132.2-74.7,180.3c-48.2,48.2-112.2,74.7-180.4,74.7c-68.1,0-132.2-26.5-180.3-74.7C64,424.7,37.5,360.6,37.5,292.5
 	c0-68.1,26.5-132.2,74.7-180.3C160.3,64,224.4,37.5,292.5,37.5z"/>
 </svg>
+</template>
+
+<style scoped>
+	.st0{fill:#00B7FF;}
+</style>
+
