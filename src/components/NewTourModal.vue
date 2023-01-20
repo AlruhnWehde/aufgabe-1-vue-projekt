@@ -1,4 +1,4 @@
-<!-- taken from https://vuejs.org/examples/#modal -->
+<!-- basic structure taken from https://vuejs.org/examples/#modal -->
 <script>
 export default {
   props: {
@@ -19,7 +19,7 @@ export default {
   },
   methods: {
     submit(){
-      //sorry, input validation sucks. im sure you can do it better than this, but this also works kinda
+      // sorry, input validation could be better
       // with help from https://regexr.com/631qa
       var titleReg = /^.{3,120}$/;
       var descReg = /^.{9,}$/;
